@@ -6,7 +6,8 @@ of the customer churning.
 
 It makes this prediction of likelihood based on 19 customer attributes which include tenure, total charges, etc. 
 
-To build and train this model I make use of the scikit-learn library, the keras framework, the scikeras library, and other important libraries
+To build and train this model I make use of the scikit-learn library, the keras framework, the scikeras library, and other important libraries.
+The model was deployed using streamlit==1.28.1
 
 Link to video demonstration:
 https://youtu.be/Ru8U3oYn858
